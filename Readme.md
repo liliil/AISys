@@ -7,11 +7,6 @@ Example: https://github.com/liliil/ProjectZero
 - State / Event Driven
 - Auto Modifi blackboard
 
-![preview](Resources/Preview.png)
-
-
-
-
 
 # Dependece
 https://github.com/liliil/ren
